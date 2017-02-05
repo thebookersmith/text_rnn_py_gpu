@@ -1,5 +1,5 @@
 #Adapted from code at https://gist.github.com/karpathy/d4dee566867f8291f086
-#profiling feature, GPU acceleration were added, code was changed to python3.
+#profiling feature, GPU acceleration was added, code was changed to python3.
 #just realized that accelerate does some stuff, and numba is updated to do the rest
 
 import numpy as np
